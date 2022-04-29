@@ -6,7 +6,7 @@ aiming to serve as a basis for the planning and expansion of the Electrical Syst
 
 The method used in this work is based on the Monte Carlo Simulation. In general, this method is characterized by the repetition of the simulations and the 
 sampling of the input variables in order to generate different scenarios for analysis. 
-In this work, the Factors that were subject to randomness were the loadshapes of consumers and the bars where the Electric Vehicles Charging Stations
+In this work, the factors that were subjected to randomness were the loadshapes of consumers and the bars where the Electric Vehicles Charging Stations
 are allocated. The implementation of the methodology is carried out through the py-dss-interface library and the OpenDSS software. 
 
 The main measurements in this study to evaluate the different cenarios are related to technical losses, voltage levels and network loading.
